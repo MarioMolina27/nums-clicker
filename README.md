@@ -19,6 +19,9 @@
 7. Si lo deseas, puedes optar por reiniciar el juego cuando termine.
 
 ## Tecnologías Utilizadas
+Si deseas modificar el tiempo limite o el numero de botones en pantalla , hay que modificar las 2 constantes dentro del archivo 'constants.js'
+
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -26,4 +29,5 @@
 
 ## Créditos
 
-Este juego fue desarrollado por Mario Molina para practicar conocimientos básicos de JavaScript
+Juego desarollo con el fin de practicar conocimientos básicos de JavaScript.
+
